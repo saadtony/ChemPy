@@ -1,7 +1,12 @@
 ![](ChemE_logo.png)
 
 # chempy
-Introductory Python notes from the Chemical Engineering Department at the University of Utah
+
+This repository contains Python notebooks from the Chemical Engineering Department at the University of Utah. The purpose of these notebooks is to:
+
+1. aide in the transition of our department to using Python
+2. teach students the principles of programming using Python
+3. educate students in the art of computing and data analysis using Python
 
 ## Viewing the Notebooks in This Repository:
 
@@ -20,3 +25,7 @@ Contains an easy introduction to python
 ### [ExempliPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
 Contains a collection of problems solved numerically with Python.
 [https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
+
+[Tony Saad](www.tonysaad.net) <br/>
+Assistant Professor of [Chemical Engineering](www.che.utah.edu) <br/>
+[University of Utah](www.utah.edu)
