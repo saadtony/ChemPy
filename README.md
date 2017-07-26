@@ -4,9 +4,9 @@
 
 This repository contains Python notebooks from the Chemical Engineering Department at the University of Utah. The purpose of these notebooks is to:
 
-1. aide in the transition of our department to using Python
-2. teach students the principles of programming using Python
-3. educate students in the art of computing and data analysis using Python
+1. **aide** in the transition of our department to using Python
+2. **teach** students the principles of programming using Python
+3. **educate** students in the art of computing and data analysis using Python
 
 ## Viewing the Notebooks in This Repository:
 
