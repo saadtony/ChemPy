@@ -10,13 +10,13 @@ This repository contains Python notebooks from the Chemical Engineering Departme
 
 There are currently two notebooks in this repository:
 
-### [EasyPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
-Contains an easy introduction to python.
+## [EasyPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
+Contains an easy introduction to python (click to access slideshow).
 [https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/chempy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
 
 
-### [ExempliPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
-Contains a collection of problems solved numerically with Python.
+## [ExempliPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
+Contains a collection of problems solved numerically with Python (click to access slideshow).
 [https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
 
 
