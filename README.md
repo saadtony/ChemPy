@@ -8,6 +8,10 @@ This repository contains Python notebooks from the Chemical Engineering Departme
 2. **teach** students the principles of programming using Python
 3. **educate** students in the art of computing and data analysis using Python
 
+These notebooks are *alive* - they are constantly being updated and improved. So please keep coming back for updates or simply clone the repository and keep it up to date.
+
+This material is released under the [MIT license](LICENSE).
+
 ## Viewing the Notebooks in This Repository:
 
 You can vew all my repositories here:
@@ -18,7 +22,7 @@ Find your way around and click on any notebook to view it.
 To see the individual notebooks in slide format:
 
 ### [EasyPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
-Contains an easy introduction to python
+Contains an easy introduction to python.
 [https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/chempy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
 
 
