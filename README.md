@@ -10,6 +10,11 @@ Find your way around and click on any notebook to view it.
 
 To see the individual notebooks in slide format:
 
-## EasyPy
+## [EasyPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
 Contains an easy introduction to python
-<a href=https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#/>https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/chempy.ipynb#/</a>
+[https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/chempy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/easypy.ipynb#)
+
+
+## [ExempliPy](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
+Contains a collection of problems solved numerically with Python.
+[https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
