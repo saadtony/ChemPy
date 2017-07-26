@@ -22,6 +22,8 @@ Contains a collection of problems solved numerically with Python (click to acces
 
 These notebooks are *alive* - they are constantly being updated and improved. So please keep coming back for updates or simply clone the repository and keep it up to date.
 
+If you have suggestions, comments, or requests please use the Issues tab.
+
 This material is released under the [MIT license](LICENSE).
 
 ## Viewing the Notebooks in This Repository:
@@ -31,10 +33,10 @@ You can vew all my repositories [here](http://nbviewer.jupyter.org/github/saadto
 Find your way around and click on any notebook to view it.
 
 
+---
 I hope you find these notebooks helpful.
 Cheers!
 
-----
 [Tony Saad](www.tonysaad.net) <br/>
 Assistant Professor of [Chemical Engineering](www.che.utah.edu) <br/>
 [University of Utah](www.utah.edu)
