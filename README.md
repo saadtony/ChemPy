@@ -30,6 +30,8 @@ You can vew all my repositories [here](http://nbviewer.jupyter.org/github/saadto
 <a href=http://nbviewer.jupyter.org/github/saadtony/>http://nbviewer.jupyter.org/github/saadtony/</a>
 Find your way around and click on any notebook to view it.
 
+I hope you find these notebooks helpful.
+Cheers!
 ----
 [Tony Saad](www.tonysaad.net) <br/>
 Assistant Professor of [Chemical Engineering](www.che.utah.edu) <br/>
