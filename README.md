@@ -26,6 +26,7 @@ Contains an easy introduction to python
 Contains a collection of problems solved numerically with Python.
 [https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#](https://nbviewer.jupyter.org/format/slides/github/saadtony/chempy/blob/master/exemplipy.ipynb#)
 
+----
 [Tony Saad](www.tonysaad.net) <br/>
 Assistant Professor of [Chemical Engineering](www.che.utah.edu) <br/>
 [University of Utah](www.utah.edu)
