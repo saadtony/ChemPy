@@ -1,6 +1,6 @@
 ![](ChemE_logo.png)
 
-# chempy
+# ChemPy
 
 This repository contains Python notebooks from the Chemical Engineering Department at the University of Utah. The purpose of these notebooks is to:
 
